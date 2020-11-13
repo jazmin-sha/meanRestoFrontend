@@ -1,0 +1,16 @@
+{
+  "restaurants": [
+    {
+      "name": "dominos123",
+      "email": "dominos@test.com",
+      "address": "kerala",
+      "id": 5
+    },
+    {
+      "name": "pizza",
+      "address": "delhi",
+      "email": "pizza@test.com",
+      "id": 6
+    }
+  ]
+}
